@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import dataclasses
 import platform
-import numpy as np
+
 from pathlib import Path
 
 from typing import TypeVar  # Could use Self eventually
